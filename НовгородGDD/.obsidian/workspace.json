@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "PROVERKA"
             }
+          },
+          {
+            "id": "bf0a303a24de6586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asdasdasd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asdasdasd"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROVERKA.md",
+                "file": "asdasdasd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PROVERKA"
+              "title": "Outline of asdasdasd"
             }
           },
           {
@@ -262,10 +276,11 @@
       }
     ]
   },
-  "active": "bea3eb7edd767364",
+  "active": "bf0a303a24de6586",
   "lastOpenFiles": [
-    "asdasd.md",
     "PROVERKA.md",
+    "asdasdasd.md",
+    "asdasd.md",
     "Untitled.md",
     "TEST.md",
     "Welcome.md"
