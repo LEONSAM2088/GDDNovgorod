@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 /НовгородGDD/.obsidian
 /НовгородGDD/.obsidian/workspace.json
 /НовгородGDD/.obsidian/workspace.json
+=======
+
+/.obsidian/app.json
+/.obsidian/appearance.json
+/.obsidian/community-plugins.json
+/.obsidian/core-plugins.json
+/.obsidian/plugins/obsidian-git/main.js
+/.obsidian/plugins/obsidian-git/manifest.json
+/.obsidian/plugins/obsidian-git/styles.css
+/.obsidian/workspace.json
+>>>>>>> origin/main
