@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
+          },
+          {
+            "id": "0a7309f859b75a30",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "НовгородGDD/.obsidian/workspace.json",
+                "bFile": "НовгородGDD/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +247,11 @@
       }
     ]
   },
-  "active": "8ab8a9a17fe16eea",
+  "active": "fe5d27b9c78632a0",
   "lastOpenFiles": [
     "TEST.md",
     "Untitled.md",
+    "asdasd.md",
     "Welcome.md"
   ]
 }
