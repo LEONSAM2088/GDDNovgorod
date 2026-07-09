@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Первый GDD"
             }
+          },
+          {
+            "id": "d7c464e9faf17f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сословия Новгорода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сословия Новгорода"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Первый GDD.md",
+                "file": "Сословия Новгорода.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Первый GDD"
+              "title": "Outline of Сословия Новгорода"
             }
           },
           {
@@ -276,10 +290,11 @@
       }
     ]
   },
-  "active": "bf0a303a24de6586",
+  "active": "d7c464e9faf17f99",
   "lastOpenFiles": [
-    "TEST.md",
     "Первый GDD.md",
+    "Сословия Новгорода.md",
+    "TEST.md",
     "asdasd.md",
     "asdasdasd.md",
     "PROVERKA.md",
