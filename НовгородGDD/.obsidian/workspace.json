@@ -189,13 +189,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "fe5d27b9c78632a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35729a5ebb5dc034",
+  "active": "c1b8345850c339c5",
   "lastOpenFiles": [
     "Untitled.md",
     "TEST.md",
