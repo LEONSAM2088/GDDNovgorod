@@ -53,14 +53,14 @@
             "id": "bf0a303a24de6586",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "НовгородGDD/.obsidian/workspace.json",
-                "bFile": "НовгородGDD/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "Первый GDD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Первый GDD"
             }
           }
         ],
@@ -199,12 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Первый GDD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Первый GDD"
             }
           },
           {
@@ -277,12 +278,14 @@
   },
   "active": "bf0a303a24de6586",
   "lastOpenFiles": [
-    "asdasdasd.md",
-    "conflict-files-obsidian-git.md",
-    "PROVERKA.md",
-    "asdasd.md",
-    "Untitled.md",
     "TEST.md",
+    "Первый GDD.md",
+    "asdasd.md",
+    "asdasdasd.md",
+    "PROVERKA.md",
+    "Без названия.canvas",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Welcome.md"
   ]
 }
