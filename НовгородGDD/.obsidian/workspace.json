@@ -17,8 +17,8 @@
                 "bFile": "НовгородGDD/.obsidian/workspace.json",
                 "aRef": ""
               },
-              "icon": "lucide-ghost",
-              "title": "split-diff-view"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Система трейтов.md",
+                "file": "Общие данные/GDD/Второй GDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Система трейтов"
+              "title": "Второй GDD"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Система трейтов.md",
+                "file": "Общие данные/GDD/Второй GDD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Система трейтов"
+              "title": "Outline of Второй GDD"
             }
           },
           {
@@ -239,14 +239,17 @@
   },
   "active": "bf0a303a24de6586",
   "lastOpenFiles": [
-    "Cоциальная экономика.md",
-    "Система трейтов.md",
+    "Система репутации.md",
     "Общие данные/GDD/Второй GDD.md",
+    "Система репутации (Схема).canvas",
+    "Система трейтов.md",
+    "Щедрый.md",
+    "Игровой персонаж (Chapter).md",
+    "Cоциальная экономика.md",
     "Общие данные/GDD/Первый GDD.md",
     "Первый GDD.md",
     "Доверие.md",
     "Чёрные люди.md",
-    "Щедрый.md",
     "Хитрый.md",
     "Трусливый.md",
     "Справедливый.md",
@@ -260,11 +263,8 @@
     "Лживый.md",
     "Искусственный интеллект (AI).md",
     "Игрок (Player).md",
-    "Игровой персонаж (Chapter).md",
     "Застеничивый.md",
     "Жадный.md",
-    "Гневный.md",
-    "Амбициозен.md",
     "2213cb09-5312-4d57-9031-265f1e2cec58.png",
     "Сословия",
     "Общие данные/Финансирование",
