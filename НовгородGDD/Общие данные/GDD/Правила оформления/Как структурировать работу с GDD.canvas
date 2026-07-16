@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"f80a3b7a40243101","x":-220,"y":-360,"width":250,"height":60,"type":"text","text":"Появилась ```#Идея```"},
+		{"id":"286dcd6cb5f0cc44","x":-221,"y":-223,"width":251,"height":103,"type":"text","text":"Это \"кто/что есть в мире\" (персонаж, предмет, город, договор как сущность)"},
+		{"id":"165db6cf436e6c18","x":-520,"y":21,"width":250,"height":60,"type":"text","text":"```#Объект```"},
+		{"id":"2f1e7c3ebe6633b1","x":60,"y":21,"width":250,"height":60,"type":"text","text":"Это \"что хранится\" (число, теги, список)"},
+		{"id":"8080f79ec89ccf54","x":-220,"y":180,"width":250,"height":60,"type":"text","text":"```#Данные```"},
+		{"id":"ce33d934a48ad633","x":294,"y":180,"width":250,"height":100,"type":"text","text":"Это \"Одно когда -> то\" (Одно условия -> Один эффект)?"},
+		{"id":"74edb631aaedc4ba","x":-70,"y":437,"width":250,"height":60,"type":"text","text":"```#Механика```"},
+		{"id":"148baa9fbc12c654","x":548,"y":398,"width":250,"height":99,"type":"text","text":"Это \"Модуль\": свой склад данных + несколько правил + связи с другими?"},
+		{"id":"8793afd0d2acceed","x":316,"y":632,"width":250,"height":60,"type":"text","text":"```#Система```"},
+		{"id":"1c2ae08273c9a6af","x":820,"y":616,"width":250,"height":92,"type":"text","text":"Ещё не дизайн: обещание, динамика, UI, фича в общем"}
+	],
+	"edges":[
+		{"id":"1c6a8e22f9e858b0","fromNode":"f80a3b7a40243101","fromSide":"bottom","toNode":"286dcd6cb5f0cc44","toSide":"top"},
+		{"id":"b3f964b4cf1c4bf9","fromNode":"286dcd6cb5f0cc44","fromSide":"bottom","toNode":"165db6cf436e6c18","toSide":"top","label":"Да"},
+		{"id":"6ad56ee6f60f8a9e","fromNode":"286dcd6cb5f0cc44","fromSide":"bottom","toNode":"2f1e7c3ebe6633b1","toSide":"top","label":"Нет"},
+		{"id":"1e8cdd06349cbe03","fromNode":"2f1e7c3ebe6633b1","fromSide":"bottom","toNode":"8080f79ec89ccf54","toSide":"top","label":"Да"},
+		{"id":"a700c908b784f373","fromNode":"2f1e7c3ebe6633b1","fromSide":"bottom","toNode":"ce33d934a48ad633","toSide":"top","label":"Нет"},
+		{"id":"af409d929cae5ba0","fromNode":"ce33d934a48ad633","fromSide":"bottom","toNode":"74edb631aaedc4ba","toSide":"top","label":"Да"},
+		{"id":"e8e87bff940a4c18","fromNode":"ce33d934a48ad633","fromSide":"bottom","toNode":"148baa9fbc12c654","toSide":"top"},
+		{"id":"5f51eb1d30bc4082","fromNode":"148baa9fbc12c654","fromSide":"bottom","toNode":"8793afd0d2acceed","toSide":"top"},
+		{"id":"8624a8b33c319f2b","fromNode":"148baa9fbc12c654","fromSide":"bottom","toNode":"1c2ae08273c9a6af","toSide":"top"}
+	]
+}
