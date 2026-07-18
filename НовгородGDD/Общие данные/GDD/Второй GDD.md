@@ -29,7 +29,16 @@
 
 ![[OpenAI Playground 2026-06-04 at 23.18.31.png]]
 
-![[2213cb09-5312-4d57-9031-265f1e2cec58.png]]
+![[2213cb09-5312-4d57-9031-265f1e2cec58.png|594]]
+![[slide-15 3.jpg]]
+![[546c2704e6e82d2e50933107f0b7ca89.jpg|591]]
+![[i.webp]]
+![[slide-2.jpg]]
+![[i (1).webp]]
+![[c2e4d277c7bedaabc55f65ab8cd9311f.jpg]]
+![[img9.jpg]]
+
+
 # Системы и механики
 
 ## Системы
