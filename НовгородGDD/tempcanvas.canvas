@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"5a3c8b6b25d39bfb","x":-340,"y":-376,"width":250,"height":60,"color":"3","type":"text","text":"Игрок"},
+		{"id":"80899b565e8bf034","type":"text","text":"Статус","x":-340,"y":-280,"width":250,"height":60},
+		{"id":"2d5fb6339474c29f","x":300,"y":-376,"width":250,"height":60,"color":"3","type":"text","text":"ИИ"},
+		{"id":"a131c94765458e56","type":"text","text":"Статус","x":300,"y":-290,"width":250,"height":60},
+		{"id":"0c65a6b2f54493a6","type":"text","text":"Возраст","x":300,"y":-190,"width":250,"height":60},
+		{"id":"e2518c0e030f8565","type":"text","text":"Факты о твоих действиях","x":300,"y":-90,"width":250,"height":60},
+		{"id":"6d538ce469bfc979","type":"text","text":"Относительно других","x":720,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"9d8ec67c7d6ad9e1","type":"text","text":"Кредит доверия к тебе","x":300,"y":0,"width":250,"height":60},
+		{"id":"6bba2426a23379bd","type":"text","text":"Черты характера","x":300,"y":100,"width":250,"height":60},
+		{"id":"dfa0e3c451c4c6b9","type":"text","text":"Возраст","x":-340,"y":-190,"width":250,"height":60},
+		{"id":"09e04f4406b34b98","type":"text","text":"Факты о твоих действиях","x":-340,"y":-90,"width":250,"height":60},
+		{"id":"6d29c2bde596c1eb","type":"text","text":"Кредит доверия к тебе","x":-340,"y":10,"width":250,"height":60},
+		{"id":"ee6eba8875ac835f","type":"text","text":"Риторика","x":300,"y":280,"width":250,"height":60},
+		{"id":"3fe7efab183717ba","type":"text","text":"Эмпатия","x":300,"y":360,"width":250,"height":60},
+		{"id":"e18431467585b8b6","type":"text","text":"Риторика (Красноречие)","x":-340,"y":250,"width":250,"height":60},
+		{"id":"cf747e903e5b6479","type":"text","text":"Эмпатия","x":-340,"y":428,"width":250,"height":60},
+		{"id":"a09a65cb71c860c3","x":-340,"y":130,"width":250,"height":60,"type":"text","text":"Ухоженность/Гигиена"},
+		{"id":"abd7d0494bf3731b","x":-857,"y":420,"width":315,"height":136,"type":"text","text":"Эмоциональный интеллект (Для того чтоб открывать черты характера других нпс)"},
+		{"id":"2737024c4c092a67","x":-857,"y":0,"width":277,"height":240,"type":"text","text":"Зарабатывается через ежемесячные траты на бани, мыло, автоматически, в зависимости от того какой уровень ухаживания за собой выберет игрок. По сути привязано к уровню потребления"},
+		{"id":"5624a5a8cbe4b4ac","x":-857,"y":270,"width":315,"height":120,"type":"text","text":"Чтобы повышать кредит доверия при диалоге, делать слух убедительней"},
+		{"id":"9ef87cd0c943405d","type":"text","text":"Ухоженность/Гигиена","x":300,"y":190,"width":250,"height":60},
+		{"id":"308eb5e1ddbca4dd","x":-857,"y":-90,"width":250,"height":60,"color":"5","type":"text","text":"Относительно других"},
+		{"id":"808ecb8768ed4646","x":-60,"y":660,"width":250,"height":73,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"22af51b46d13fade","fromNode":"308eb5e1ddbca4dd","fromSide":"right","toNode":"09e04f4406b34b98","toSide":"left"},
+		{"id":"e90f21462c1d7053","fromNode":"308eb5e1ddbca4dd","fromSide":"right","toNode":"6d29c2bde596c1eb","toSide":"left"},
+		{"id":"0e91a17b148dd56d","fromNode":"6d538ce469bfc979","fromSide":"left","toNode":"e2518c0e030f8565","toSide":"right"},
+		{"id":"33529ff61be18df7","fromNode":"6d538ce469bfc979","fromSide":"left","toNode":"9d8ec67c7d6ad9e1","toSide":"right"},
+		{"id":"ce5413ec61b5f4df","fromNode":"cf747e903e5b6479","fromSide":"left","toNode":"abd7d0494bf3731b","toSide":"right"},
+		{"id":"55dc8c467f41d041","fromNode":"e18431467585b8b6","fromSide":"left","toNode":"5624a5a8cbe4b4ac","toSide":"right"},
+		{"id":"6b2f085e8872008f","fromNode":"a09a65cb71c860c3","fromSide":"left","toNode":"2737024c4c092a67","toSide":"right"}
+	]
+}
