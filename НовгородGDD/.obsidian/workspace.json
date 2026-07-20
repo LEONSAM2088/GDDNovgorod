@@ -53,17 +53,21 @@
             "id": "b95c345639565729",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cоциальная экономика.md",
-                "mode": "source",
-                "source": false
+                "file": "tempcanvas.canvas",
+                "viewState": {
+                  "x": 311.81164479526825,
+                  "y": 42.22723561614809,
+                  "zoom": -0.32201849527922105
+                }
               },
-              "icon": "lucide-file",
-              "title": "Cоциальная экономика"
+              "icon": "lucide-layout-dashboard",
+              "title": "tempcanvas"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,15 +240,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ab8a9a17fe16eea",
+  "active": "b95c345639565729",
   "lastOpenFiles": [
-    "Система отношений.md",
-    "tempcanvas.canvas",
     "Общие данные/GDD/Идеи/Разбить репутацию на шкалы.md",
     "Память (знание о других).md",
+    "tempcanvas.canvas",
+    "Cоциальная экономика.md",
+    "Система обещаний.md",
+    "Система отношений.md",
     "Система фактов о персонаже (Репутация).md",
     "Общие данные/GDD/Второй GDD.md",
-    "Система обещаний.md",
     "slide-15 1.jpg",
     "Общие данные/Untitled.md",
     "Игровой персонаж (Chapter).md",
@@ -274,8 +279,6 @@
     "i 2.webp",
     "i 1.webp",
     "i (1).webp",
-    "Система репутации.md",
-    "Общие данные/GDD/Основная идея (Ядро игры про социалку).md",
     "Общие данные/GDD/Правила оформления/Как структурировать работу с GDD.canvas",
     "Общие данные/GDD/Правила оформления/Шаблоны",
     "Общие данные/GDD/Правила оформления",
