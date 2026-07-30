@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b411bc12f17a7761",
+        "id": "5a83fc94b155f746",
         "type": "tabs",
         "children": [
           {
-            "id": "84e5a4855ac083e4",
+            "id": "c9177b0d362a3ce9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "НовгородGDD/.obsidian/workspace.json",
-                "bFile": "НовгородGDD/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "Общие данные/GDD/Второй GDD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Второй GDD"
             }
           }
         ]
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Общие данные/GDD/Второй GDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Второй GDD"
             }
           },
           {
@@ -155,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Общие данные/GDD/Второй GDD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Второй GDD"
             }
           },
           {
@@ -192,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab52a13103aa46d8",
+  "active": "c9177b0d362a3ce9",
   "lastOpenFiles": [
     "Вопросы геймдизайнеру.md",
-    "Общие данные/GDD/Второй GDD.md",
     "Система обещаний.md",
     "Выполнить обещание.md",
+    "Общие данные/GDD/Второй GDD.md",
     "Нарушить обещание.md",
     "Заключить обещание (договор).md",
     "Уровень доверия к персонажу.md",
