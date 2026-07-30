@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.tags.containsAny("Словарь")
+properties:
+  file.backlinks:
+    displayName: Кто ссылается на них
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - file.folder
+      - file.backlinks
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.backlinks
+        direction: DESC

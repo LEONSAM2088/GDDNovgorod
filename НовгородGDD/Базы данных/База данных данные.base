@@ -1,0 +1,20 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAny("Данные")
+    order:
+      - file.name
+      - file.tags
+      - file.backlinks
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: formula.Untitled
+        direction: ASC
+    columnSize:
+      file.backlinks: 209

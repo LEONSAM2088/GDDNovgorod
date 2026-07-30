@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.tags.containsAny("Механика")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - file.backlinks
