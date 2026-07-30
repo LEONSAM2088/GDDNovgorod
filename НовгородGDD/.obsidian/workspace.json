@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уровень доверия к персонажу.md",
+                "file": "Общие данные/GDD/Второй GDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровень доверия к персонажу"
+              "title": "Второй GDD"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Уровень доверия к персонажу.md",
+                "file": "Общие данные/GDD/Второй GDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Уровень доверия к персонажу"
+              "title": "Outgoing links from Второй GDD"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Уровень доверия к персонажу.md",
+                "file": "Общие данные/GDD/Второй GDD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Уровень доверия к персонажу"
+              "title": "Outline of Второй GDD"
             }
           },
           {
@@ -196,6 +196,9 @@
   },
   "active": "c9177b0d362a3ce9",
   "lastOpenFiles": [
+    "Общие данные/GDD/Основная идея (Ядро игры про социалку).md",
+    "Уровень доверия к персонажу.md",
+    "Общие данные/GDD/Первый GDD.md",
     "tempcanvas.canvas",
     "Untitled.md",
     "slide-15.jpg",
@@ -212,7 +215,6 @@
     "Выполнить обещание.md",
     "Нарушить обещание.md",
     "Заключить обещание (договор).md",
-    "Уровень доверия к персонажу.md",
     "Узнать личное отношение.md",
     "Оценить факты о персонаже.md",
     "Оценить возраст персонажа.md",
@@ -229,7 +231,6 @@
     "Память (знание о других).md",
     "Уровни благосостояния.md",
     "Передать знание о факте (пустить слух).md",
-    "Благосостояние персонажа.md",
     "UnityОбучение",
     "slide-15 1.jpg",
     "Без названия.base",
