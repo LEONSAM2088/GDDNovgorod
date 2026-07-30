@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общие данные/GDD/Второй GDD.md",
+                "file": "Уровень доверия к персонажу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Второй GDD"
+              "title": "Уровень доверия к персонажу"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Общие данные/GDD/Второй GDD.md",
+                "file": "Уровень доверия к персонажу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Второй GDD"
+              "title": "Outgoing links from Уровень доверия к персонажу"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Общие данные/GDD/Второй GDD.md",
+                "file": "Уровень доверия к персонажу.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Второй GDD"
+              "title": "Outline of Уровень доверия к персонажу"
             }
           },
           {
@@ -196,10 +196,20 @@
   },
   "active": "c9177b0d362a3ce9",
   "lastOpenFiles": [
-    "Вопросы геймдизайнеру.md",
-    "Система обещаний.md",
-    "Выполнить обещание.md",
+    "tempcanvas.canvas",
+    "Untitled.md",
+    "slide-15.jpg",
+    "slide-2.jpg",
+    "OpenAI Playground 2026-06-04 at 23.18.31.png",
+    "img9.jpg",
+    "i 2.webp",
+    "i 1.webp",
+    "i (1).webp",
+    "i.webp",
     "Общие данные/GDD/Второй GDD.md",
+    "Система обещаний.md",
+    "Вопросы геймдизайнеру.md",
+    "Выполнить обещание.md",
     "Нарушить обещание.md",
     "Заключить обещание (договор).md",
     "Уровень доверия к персонажу.md",
@@ -220,21 +230,10 @@
     "Уровни благосостояния.md",
     "Передать знание о факте (пустить слух).md",
     "Благосостояние персонажа.md",
-    "Общие данные/GDD/Правила оформления/Шаблоны/Шаблон механики.md",
-    "tempcanvas.canvas",
-    "Возраст персонажа.md",
     "UnityОбучение",
     "slide-15 1.jpg",
     "Без названия.base",
-    "slide-2.jpg",
-    "slide-15.jpg",
     "slide-15 3.jpg",
-    "slide-15 2.jpg",
-    "img9.jpg",
-    "i.webp",
-    "i 2.webp",
-    "i 1.webp",
-    "i (1).webp",
     "Общие данные/GDD/Правила оформления/Как структурировать работу с GDD.canvas",
     "Общие данные/GDD/Правила оформления/Шаблоны",
     "Общие данные/GDD/Правила оформления",
