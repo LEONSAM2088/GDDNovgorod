@@ -58,12 +58,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GameDesignDocumentation/Ресурсы/Основная идея (Ядро игры про социалку).md",
+                    "file": "GameDesignDocumentation/Vision Doc.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Основная идея (Ядро игры про социалку)"
+                  "title": "Vision Doc"
                 }
               }
             ],
@@ -80,7 +80,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "GameDesignDocumentation/Ресурсы/Основная идея (Ядро игры про социалку).md",
+                    "file": "GameDesignDocumentation/Vision Doc.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -273,6 +273,8 @@
   },
   "active": "608777caeb8c3b29",
   "lastOpenFiles": [
+    "GameDesignDocumentation/Без названия.canvas",
+    "GameDesignDocumentation/Ресурсы/Основная идея (Ядро игры про социалку).md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -280,7 +282,6 @@
     "GameDesignDocumentation/main.md",
     "GameDesignDocumentation/Main GDD.md",
     "Pasted image 20260803181448.png",
-    "GameDesignDocumentation/Без названия.canvas",
     "Общие данные/Сеттинг/История XIV-XV/05 — Экономика и торговля.md",
     "Общие данные/Сеттинг/История XIV-XV/00 — Обзор.md",
     "GameDesignDocumentation/Ресурсы/Системы/Система фактов о персонаже (Репутация).md",
@@ -295,7 +296,6 @@
     "GameDesignDocumentation/Правила оформления/Шаблоны/Шаблон системы.md",
     "GameDesignDocumentation/Ресурсы/Идеи/При создания персонажа выбрать сезон и происхождение.md",
     "base/Вопросы геймдизайнеру.md",
-    "GameDesignDocumentation/Ресурсы/Основная идея (Ядро игры про социалку).md",
     "Базы данных/База данных систем.base",
     "Базы данных/База данных механик.base",
     "Базы данных/База данных данные.base",
