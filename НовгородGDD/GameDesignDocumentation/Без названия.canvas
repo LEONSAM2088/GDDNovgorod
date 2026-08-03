@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"abadc868c6412db5","x":-120,"y":0,"width":250,"height":60,"type":"text","text":"Game Design Document"},
+		{"id":"a7e06f972845b3ee","x":-120,"y":-120,"width":250,"height":60,"type":"text","text":"Concept-Document"},
+		{"id":"4bd8bca867efe1d3","x":-120,"y":-240,"width":250,"height":60,"type":"text","text":"Vision Document"}
+	],
+	"edges":[
+		{"id":"a2e7999e09f9d04a","fromNode":"4bd8bca867efe1d3","fromSide":"bottom","toNode":"a7e06f972845b3ee","toSide":"top"},
+		{"id":"161788576b4de3e4","fromNode":"a7e06f972845b3ee","fromSide":"bottom","toNode":"abadc868c6412db5","toSide":"top"}
+	]
+}
