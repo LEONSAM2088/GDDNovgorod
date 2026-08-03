@@ -4,99 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "b81913b9dda4266c",
-        "type": "split",
+        "id": "5a83fc94b155f746",
+        "type": "tabs",
         "children": [
           {
-            "id": "5a83fc94b155f746",
-            "type": "tabs",
-            "dimension": 80.76923076923077,
-            "children": [
-              {
-                "id": "c9177b0d362a3ce9",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Общие данные/Ресурсы/Вложения/2213cb09-5312-4d57-9031-265f1e2cec58.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "2213cb09-5312-4d57-9031-265f1e2cec58"
-                }
+            "id": "c9177b0d362a3ce9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Общие данные/Ресурсы/Вложения/2213cb09-5312-4d57-9031-265f1e2cec58.png"
               },
-              {
-                "id": "f6e5b0cdc24c982e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "base/Черты характера/Щедрый.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Щедрый"
-                }
-              },
-              {
-                "id": "2be937d91ac10976",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GameDesignDocumentation/Ресурсы/Объекты/Игрок (Player).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Игрок (Player)"
-                }
-              },
-              {
-                "id": "608777caeb8c3b29",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GameDesignDocumentation/Vision Doc.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vision Doc"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-image",
+              "title": "2213cb09-5312-4d57-9031-265f1e2cec58"
+            }
           },
           {
-            "id": "008ebdb0bb9a8d5f",
-            "type": "tabs",
-            "dimension": 19.230769230769234,
-            "children": [
-              {
-                "id": "79d2cab5b82a011f",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "GameDesignDocumentation/Vision Doc.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
-                }
-              }
-            ]
+            "id": "f6e5b0cdc24c982e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base/Черты характера/Щедрый.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Щедрый"
+            }
+          },
+          {
+            "id": "2be937d91ac10976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDesignDocumentation/Ресурсы/Объекты/Игрок (Player).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Игрок (Player)"
+            }
+          },
+          {
+            "id": "608777caeb8c3b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDesignDocumentation/Vision Doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vision Doc"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,12 +239,12 @@
   },
   "active": "608777caeb8c3b29",
   "lastOpenFiles": [
+    "GameDesignDocumentation/Vision Doc.md",
     "GameDesignDocumentation/Без названия.canvas",
     "GameDesignDocumentation/Ресурсы/Основная идея (Ядро игры про социалку).md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "GameDesignDocumentation/Vision Doc.md",
     "GameDesignDocumentation/main.md",
     "GameDesignDocumentation/Main GDD.md",
     "Pasted image 20260803181448.png",
