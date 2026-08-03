@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"a085cd39a94ac97a","x":-100,"y":-240,"width":250,"height":60,"type":"text","text":"Домен"},
+		{"id":"bba5ef2d773ff8c5","x":-524,"y":283,"width":250,"height":60,"type":"text","text":"Данными"},
+		{"id":"6a67466283ed4a14","x":-774,"y":120,"width":250,"height":60,"type":"text","text":"Объекты"},
+		{"id":"56ef7131a2a303eb","x":-225,"y":-60,"width":250,"height":60,"type":"text","text":"Система"},
+		{"id":"b3edf88a44bf7f5b","x":-60,"y":120,"width":250,"height":60,"type":"text","text":"Механики"},
+		{"id":"9617f2fcf93dd7b2","x":540,"y":-195,"width":250,"height":345,"type":"text","text":"```C#\nclass System\npublic A;\npublic B;\n\nvoid ...\n\n\n\n```"}
+	],
+	"edges":[
+		{"id":"a2e3fb98b0ecaf9b","fromNode":"a085cd39a94ac97a","fromSide":"bottom","toNode":"56ef7131a2a303eb","toSide":"top"},
+		{"id":"2fcee283835d7cd3","fromNode":"56ef7131a2a303eb","fromSide":"bottom","toNode":"b3edf88a44bf7f5b","toSide":"top"},
+		{"id":"bdce3507c21f11c9","fromNode":"56ef7131a2a303eb","fromSide":"bottom","toNode":"bba5ef2d773ff8c5","toSide":"top"},
+		{"id":"b94d0da389fa089a","fromNode":"6a67466283ed4a14","fromSide":"bottom","toNode":"bba5ef2d773ff8c5","toSide":"top"}
+	]
+}
