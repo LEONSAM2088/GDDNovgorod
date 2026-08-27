@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UnityОбучение/Полезные гайды.md",
+                "file": "GameDesignDocumentation/Concept&Vision Doc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полезные гайды"
+              "title": "Concept&Vision Doc"
             }
           }
         ],
@@ -239,8 +239,10 @@
   },
   "active": "608777caeb8c3b29",
   "lastOpenFiles": [
-    "UnityОбучение/Addressables - позволяет грузить тяжеллые ассеты только когда нужны.md",
+    "GameDesignDocumentation/Vision Doc.md",
+    "GameDesignDocumentation/Concept&Vision Doc.md",
     "UnityОбучение/Полезные гайды.md",
+    "UnityОбучение/Addressables - позволяет грузить тяжеллые ассеты только когда нужны.md",
     "UnityОбучение/Заметки/Импорт объектов в Unity (Без анимаций).md",
     "Pasted image 20260820120722.png",
     "Pasted image 20260820120635.png",
@@ -257,7 +259,6 @@
     "UnityОбучение/Unity_Input_System_Руководство.md",
     "GameDesignDocumentation/Main GDD.md",
     "GameDesignDocumentation/main.md",
-    "GameDesignDocumentation/Vision Doc.md",
     "GameDesignDocumentation/Без названия.canvas",
     "GameDesignDocumentation/Ресурсы/Основная идея (Ядро игры про социалку).md",
     "Untitled.base",
@@ -275,7 +276,6 @@
     "GameDesignDocumentation/Правила оформления/Шаблоны/Шаблон механики.md",
     "GameDesignDocumentation/Правила оформления/Шаблоны/Шаблон объекта.md",
     "GameDesignDocumentation/Правила оформления/Шаблоны/Шаблон системы.md",
-    "GameDesignDocumentation/Ресурсы/Идеи/При создания персонажа выбрать сезон и происхождение.md",
     "Базы данных/База данных систем.base",
     "Базы данных/База данных механик.base",
     "Базы данных/База данных данные.base",
